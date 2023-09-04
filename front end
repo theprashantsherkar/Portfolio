@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <div class="head1">
+        <fieldset >
+            <legend style="text-align: center;">
+                <h1>PRASHANT SHERKAR</h1>
+            </legend>
+            <h3>Front-End Developer, Coding Enthusiast...</h3>
+
+            
+    
+        </fieldset>
+    </div>
+    
+    <hr>
+    <div class="main" id="div1">
+        <fieldset style="display: block;" id="fs2">
+<br>
+            <fieldset id="fs3">
+                    <legend style="font-weight: 800; font-size: 25px;">
+                        SKILLS
+                    </legend>
+
+
+
+                    
+            <ul style="font-size: 20px;">
+                <li>JAVA</li>
+                <li>C++</li>
+                <li>PYTHON</li>
+                <li>HTML</li>
+                <LI>CSS</LI>
+            </ul>
+
+            </fieldset>
+            <br>
+            <hr>
+            <br>
+            
+
+            <fieldset>
+
+                <legend style="font-size: 25px; font-weight: 800;">
+                    EDUCATION
+
+                </legend>
+
+                <ul style="font-size: 20px;">
+                    <li>2nd year, B.Tech in Extc<br> 
+                        (8.5 CGPA), <br>
+                        Dwarkadas J Sanghvi College Of Engineering, Mumbai</li>
+                    <li>97%ile MHT CET</li>
+                    <li>94%ile JEE MAINS</li>
+                    <li>HSC,<br>
+                        Pratibha Junior College, Chinchwad, Pune</li>
+                </ul>
+          
+            </fieldset>
+
+           
+            
+            
+    
+            
+    
+    
+        </fieldset>
+        
+        <fieldset id="fs1">
+            <br>
+            <fieldset style="font-size: 20px;">
+                
+                <legend style="font-size: 25px; font-weight: 800;">
+                    PROFILE:
+                </legend>
+                I am a passionate web developer with an expertise in problem solving and logical thinking. I love to explore various technologies and frameworks to develop a efficient and scalable solutions. 
+
+            </fieldset>
+            <br>
+            <hr>
+            <br>
+            <fieldset style="font-size: 20px;">
+                <legend style="font-size: 25px; font-weight: 800;">
+                    PROJECTS:
+                </legend>
+
+                <ul>
+                    <li><strong style="font-size: larger; font-weight: 900;">Tic Tac Toe Game</strong><br>
+                        A Web app game that allows two player experience. <br>
+                        Stack: HTML, CSS, JAVASCRIPT. <br>
+                        <a href="">Click Here to open!</a>
+                        <br>
+                        <br>
+                    </li>
+                    <li><strong style="font-size: larger; font-weight: 900;">Virtual audio based Assistant </strong><br>
+                        An assistant that accepts audio commands and completes given tasks. <br>
+                        Stack: PYTHON. <br>
+                        <a href="https://github.com/theprashantsherkar/Virtual-Assistant.git">Click Here to open!</a>
+                        <br>
+                        <br>
+
+                    </li>
+                    <li><strong style="font-size: larger; font-weight: 900;">Portfolio Website</strong> <br>
+                        Static portfolio website made using HTML and CSS. <br>
+                        <a href="">Click Here to open!</a>
+                        <br>
+                        <br>
+                    </li>
+                </ul>
+            </fieldset>
+            
+        </fieldset>
+        <fieldset id="content">
+            <br>
+            <fieldset id="contact">
+                <legend style="font-size: 25px; font-weight: 800;">
+                    REACH ME AT:
+                </legend>
+                
+                <table>
+                    <tr>
+                        <td><img src="phone.jpg" alt="phone" height="30px"></td>
+                        <td style="font-size: 20px;"><a href="tel:+917666799783">Phone</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="mail.jpg" alt="mail" height="30px"></td>
+                        <td style="font-size: 20px;"><a href="mailto:prashantsherkar7515400@gmail.com">Email</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="linkedin.jpg" alt="linkedin" height="30px"></td>
+                        <td style="font-size: 20px;"><a href="http://www.linkedin.com/in/prashant-sherkar-416235256/">LinkedIn</a></td>
+                    </tr>
+                    <tr>
+                        <td><img src="github.jpg" alt="github" height="30px"></td>
+                        <td style="font-size: 20px;"><a href="https://github.com/theprashantsherkar/">Github</a></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <br><hr><fieldset>
+                <legend style="font-size: 25px; font-weight: 800;">
+                    ACHIEVEMENTS
+                
+                </legend>
+                <ul style="font-size: 20px;">
+                    <li >A 1 star coder at codechef with all time highest rating of 1200</li>
+                    <li >Solved over 120 questions on codechef</li>
+                    <li >participated in "Relay Coding" and qualified its first round</li>
+                </ul>
+
+            </fieldset>
+
+        </fieldset>
+    </div>
+
+    
+    <script src="script.js"></script>
+</body>
+</html>
